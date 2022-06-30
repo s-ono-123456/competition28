@@ -1,0 +1,11 @@
+.cache/
+.ipynb_checkpoints/
+__pycache__/
+*/.ipynb_checkpoints/
+*/__pycache__/
+catboost_info/
+dataset/
+fixed/
+old/
+models/
+pre-pred/
